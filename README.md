@@ -56,6 +56,7 @@ The message appears as a notification in Discord
 Create a .env file in the root directory (same level as frontend and backend) and add the following:
 # Supabase project
 SUPABASE_URL=https://your-project-id.supabase.co
+
 SUPABASE_ANON_KEY=your-anon-key
 
 # Discord webhook URL
