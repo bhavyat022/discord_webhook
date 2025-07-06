@@ -18,17 +18,29 @@ Environment	     Python (.env)	          To store secrets and keys
 
 Project Structure:
 webhooknotify
+
 │
+
 ├── backend/
+
 │   ├── main.py               # FastAPI backend (receives messages), Discord webhook sender
+
 │   └── requirements.txt      # Backend dependencies
+
 │
+
 ├── frontend/
+
 │   ├── app.py                # Streamlit app (UI and logic)
+
 │   └── requirements.txt      # Frontend dependencies
+
 │
+
 ├── .env                      # Secrets (Supabase & Discord)
+
 └── README.md                 # This file
+
 
 
 How It Works:
