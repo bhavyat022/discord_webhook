@@ -1,4 +1,4 @@
-**Webhook Notification POC with Supabase, Streamlit, FastAPI & Discord**
+# **Webhook Notification POC with Supabase, Streamlit, FastAPI & Discord**
 
 Overview:
 * Sign up / log in using Supabase email authentication
