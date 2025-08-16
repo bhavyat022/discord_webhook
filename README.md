@@ -5,6 +5,7 @@ Overview:
 * Type and send a message from a Streamlit frontend
 * Store and process the message using a FastAPI backend
 * Send a Discord webhook notification with the message content
+* Also inlcuded sentiment analysis which shows if the message is positive/negative/neutral
 
 This showcases basic user authentication, API communication, and Discord notifications — all with minimal setup.
 
